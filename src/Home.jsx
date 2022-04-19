@@ -13,16 +13,16 @@ const Home = () => {
           <span className="phase">1단계</span>
           <div className="list">
             <li>제품 아이덴티티 : 양념(다대기)</li>
-            <li>제품 차별점 : 집/야외에서의 편리성</li>
+            <li>제품 차별점 : 편의성 </li>
             <li>제품 타깃 : 1~2인 가구 (about) </li>
           </div>
         </div>
         <div className="box">
           <span className="phase">2단계</span>
           <div className="list">
-            <li>브랜드 페르소나 설정</li>
-            <li>브랜드 아이덴티티 설정</li>
-            <li>필요 산출물 리스트업</li>
+            <li>브랜드 페르소나 - 현대인(특히 1~2인 가구)가 엄청 편리한 식생활 위한? </li>
+            <li>브랜드 아이덴티티 - 밥준비는 5분안에</li>
+            <li>필요 산출물 리스트업 - 홈페이지 / 홍보물 / 명함같은거(?)</li>
           </div>
         </div>
         <div className="box">
