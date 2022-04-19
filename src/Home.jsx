@@ -12,9 +12,9 @@ const Home = () => {
         <div className="box">
           <span className="phase">1단계</span>
           <div className="list">
-            <li>제품 아이덴티티 : 에센스? 소스?</li>
-            <li>제품 차별점 : 간편함 = 홈쿡? 캠핑? 여행?</li>
-            <li>제품 타깃 : 30대 기혼 여성? </li>
+            <li>제품 아이덴티티 : 양념(다대기)</li>
+            <li>제품 차별점 : 집/야외에서의 편리성</li>
+            <li>제품 타깃 : 1~2인 가구 (about) </li>
           </div>
         </div>
         <div className="box">
